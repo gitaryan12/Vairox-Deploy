@@ -47,7 +47,7 @@ const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
           Vairox is the pinnacle of Innovation in AI and blockchain.<br />
-          We don't just build technology, we set the standard for the future.
+          We don&apos;st just build technology, we set the standard for the future.
           <br />
           In a world full of followers, we are the leaders.
         </motion.p>
